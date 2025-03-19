@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\ChallangeBusinessRules\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76344EE1-835F-4500-871B-99BD4ACA2C11}|ChallangeBusinessRules\\ChallangeBusinessRules.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part2_simpleconsole_apps\\challangebusinessrules\\challangebusinessrules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76344EE1-835F-4500-871B-99BD4ACA2C11}|ChallangeBusinessRules\\ChallangeBusinessRules.csproj|solutionrelative:challangebusinessrules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\ChallangeBusinessRules\\ChallangeBusinessRules\\Program.cs",
+              "RelativeDocumentMoniker": "ChallangeBusinessRules\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\ChallangeBusinessRules\\ChallangeBusinessRules\\Program.cs",
+              "RelativeToolTip": "ChallangeBusinessRules\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:35:18.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
