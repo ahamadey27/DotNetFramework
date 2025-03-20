@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\ManufacturingArrayExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB55E32-F284-462D-9CED-D49111D4AA44}|ManufacturingArrayExercise\\ManufacturingArrayExercise.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part2_simpleconsole_apps\\manufacturingarrayexercise\\manufacturingarrayexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB55E32-F284-462D-9CED-D49111D4AA44}|ManufacturingArrayExercise\\ManufacturingArrayExercise.csproj|solutionrelative:manufacturingarrayexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\ManufacturingArrayExercise\\ManufacturingArrayExercise\\Program.cs",
+              "RelativeDocumentMoniker": "ManufacturingArrayExercise\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\ManufacturingArrayExercise\\ManufacturingArrayExercise\\Program.cs",
+              "RelativeToolTip": "ManufacturingArrayExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:24:59.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

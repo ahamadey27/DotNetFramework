@@ -1,0 +1,15 @@
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\bin\Debug\net9.0\ArrayBasics.exe
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\bin\Debug\net9.0\ArrayBasics.deps.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\bin\Debug\net9.0\ArrayBasics.runtimeconfig.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\bin\Debug\net9.0\ArrayBasics.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\bin\Debug\net9.0\ArrayBasics.pdb
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ArrayBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ArrayBasics.AssemblyInfoInputs.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ArrayBasics.AssemblyInfo.cs
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ArrayBasics.csproj.CoreCompileInputs.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ArrayBasics.sourcelink.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ArrayBasics.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\refint\ArrayBasics.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ArrayBasics.pdb
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ArrayBasics.genruntimeconfig.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\ArrayBasics\ArrayBasics\obj\Debug\net9.0\ref\ArrayBasics.dll
