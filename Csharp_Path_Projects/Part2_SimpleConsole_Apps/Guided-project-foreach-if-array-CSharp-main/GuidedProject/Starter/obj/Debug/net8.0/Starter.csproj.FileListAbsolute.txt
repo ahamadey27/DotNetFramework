@@ -1,0 +1,15 @@
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part2_SimpleConsole_Apps\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
