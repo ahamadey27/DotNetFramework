@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part3_VariableScopeAndLogic\\RolePlayingGameChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77177A12-B53A-4AF0-BCDE-15F6E6A01F8E}|RolePlayingGameChallenge\\RolePlayingGameChallenge.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part3_variablescopeandlogic\\roleplayinggamechallenge\\roleplayinggamechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77177A12-B53A-4AF0-BCDE-15F6E6A01F8E}|RolePlayingGameChallenge\\RolePlayingGameChallenge.csproj|solutionrelative:roleplayinggamechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part3_VariableScopeAndLogic\\RolePlayingGameChallenge\\RolePlayingGameChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "RolePlayingGameChallenge\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part3_VariableScopeAndLogic\\RolePlayingGameChallenge\\RolePlayingGameChallenge\\Program.cs",
+              "RelativeToolTip": "RolePlayingGameChallenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:40:06.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\DoWhileExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91FA098-36E9-45FB-8DF7-BB57D896FCFD}|DoWhileExercises\\DoWhileExercises.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part2_simpleconsole_apps\\dowhileexercises\\dowhileexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91FA098-36E9-45FB-8DF7-BB57D896FCFD}|DoWhileExercises\\DoWhileExercises.csproj|solutionrelative:dowhileexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\DoWhileExercises\\DoWhileExercises\\Program.cs",
+              "RelativeDocumentMoniker": "DoWhileExercises\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part2_SimpleConsole_Apps\\DoWhileExercises\\DoWhileExercises\\Program.cs",
+              "RelativeToolTip": "DoWhileExercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:10:05.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
