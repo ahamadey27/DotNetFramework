@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part3_VariableScopeAndLogic\\Prjct2CodeThatValidatesStringInout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92E17A5A-90DE-4270-802E-6D870F2AD610}|Prjct2CodeThatValidatesStringInout\\Prjct2CodeThatValidatesStringInout.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part3_variablescopeandlogic\\prjct2codethatvalidatesstringinout\\prjct2codethatvalidatesstringinout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E17A5A-90DE-4270-802E-6D870F2AD610}|Prjct2CodeThatValidatesStringInout\\Prjct2CodeThatValidatesStringInout.csproj|solutionrelative:prjct2codethatvalidatesstringinout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part3_VariableScopeAndLogic\\Prjct2CodeThatValidatesStringInout\\Prjct2CodeThatValidatesStringInout\\Program.cs",
+              "RelativeDocumentMoniker": "Prjct2CodeThatValidatesStringInout\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part3_VariableScopeAndLogic\\Prjct2CodeThatValidatesStringInout\\Prjct2CodeThatValidatesStringInout\\Program.cs",
+              "RelativeToolTip": "Prjct2CodeThatValidatesStringInout\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:23:44.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

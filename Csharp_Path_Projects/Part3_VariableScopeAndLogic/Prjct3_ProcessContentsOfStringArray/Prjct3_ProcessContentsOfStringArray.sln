@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prjct3_ProcessContentsOfStringArray", "Prjct3_ProcessContentsOfStringArray\Prjct3_ProcessContentsOfStringArray.csproj", "{E77ED834-BB89-46CD-B5CD-A660AA1C98E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77ED834-BB89-46CD-B5CD-A660AA1C98E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77ED834-BB89-46CD-B5CD-A660AA1C98E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77ED834-BB89-46CD-B5CD-A660AA1C98E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77ED834-BB89-46CD-B5CD-A660AA1C98E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D20454-C77B-4B8D-AFF9-261C1640D43A}
+	EndGlobalSection
+EndGlobal
