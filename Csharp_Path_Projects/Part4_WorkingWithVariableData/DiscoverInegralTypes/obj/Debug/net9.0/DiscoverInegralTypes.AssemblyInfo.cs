@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscoverInegralTypes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e56313aab87e258eb3b30af27a42a1089b651c79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb42b24558fade4e8812e9d2fef75852f0b68b76")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscoverInegralTypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscoverInegralTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
