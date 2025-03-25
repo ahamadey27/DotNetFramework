@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part4_WorkingWithVariableData\\ExtractReplaceRemoveData_Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756FA0AC-EA1B-493E-AB3B-91C8E33E5E48}|ExtractReplaceRemoveData_Challenge\\ExtractReplaceRemoveData_Challenge.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part4_workingwithvariabledata\\extractreplaceremovedata_challenge\\extractreplaceremovedata_challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756FA0AC-EA1B-493E-AB3B-91C8E33E5E48}|ExtractReplaceRemoveData_Challenge\\ExtractReplaceRemoveData_Challenge.csproj|solutionrelative:extractreplaceremovedata_challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part4_WorkingWithVariableData\\ExtractReplaceRemoveData_Challenge\\ExtractReplaceRemoveData_Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "ExtractReplaceRemoveData_Challenge\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part4_WorkingWithVariableData\\ExtractReplaceRemoveData_Challenge\\ExtractReplaceRemoveData_Challenge\\Program.cs",
+              "RelativeToolTip": "ExtractReplaceRemoveData_Challenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:37:50.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
