@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidIpAddressUsingMethods", "ValidIpAddressUsingMethods\ValidIpAddressUsingMethods.csproj", "{921EBE7E-8C8D-46D9-829E-A33F3FFB282E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921EBE7E-8C8D-46D9-829E-A33F3FFB282E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921EBE7E-8C8D-46D9-829E-A33F3FFB282E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921EBE7E-8C8D-46D9-829E-A33F3FFB282E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921EBE7E-8C8D-46D9-829E-A33F3FFB282E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C38FC702-A8C5-4AD9-BC6F-60055BCED788}
+	EndGlobalSection
+EndGlobal

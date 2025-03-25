@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\ValidIpAddressUsingMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{921EBE7E-8C8D-46D9-829E-A33F3FFB282E}|ValidIpAddressUsingMethods\\ValidIpAddressUsingMethods.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part5_methods\\validipaddressusingmethods\\validipaddressusingmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921EBE7E-8C8D-46D9-829E-A33F3FFB282E}|ValidIpAddressUsingMethods\\ValidIpAddressUsingMethods.csproj|solutionrelative:validipaddressusingmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\ValidIpAddressUsingMethods\\ValidIpAddressUsingMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ValidIpAddressUsingMethods\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\ValidIpAddressUsingMethods\\ValidIpAddressUsingMethods\\Program.cs",
+              "RelativeToolTip": "ValidIpAddressUsingMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:58:39.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\bin\Debug\net9.0\MethodsBasics.exe
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\bin\Debug\net9.0\MethodsBasics.deps.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\bin\Debug\net9.0\MethodsBasics.runtimeconfig.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\bin\Debug\net9.0\MethodsBasics.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\bin\Debug\net9.0\MethodsBasics.pdb
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\MethodsBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\MethodsBasics.AssemblyInfoInputs.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\MethodsBasics.AssemblyInfo.cs
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\MethodsBasics.csproj.CoreCompileInputs.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\MethodsBasics.sourcelink.json
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\MethodsBasics.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\refint\MethodsBasics.dll
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\MethodsBasics.pdb
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\MethodsBasics.genruntimeconfig.cache
+D:\NET_Learning_Path\DotNetFramework\Csharp_Path_Projects\Part5_Methods\MethodsBasics\MethodsBasics\obj\Debug\net9.0\ref\MethodsBasics.dll
