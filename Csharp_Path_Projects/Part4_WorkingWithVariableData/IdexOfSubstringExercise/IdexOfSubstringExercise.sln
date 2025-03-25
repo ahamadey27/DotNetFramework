@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdexOfSubstringExercise", "IdexOfSubstringExercise\IdexOfSubstringExercise.csproj", "{48DDB616-9E17-4973-ADAC-115A585D5992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DDB616-9E17-4973-ADAC-115A585D5992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DDB616-9E17-4973-ADAC-115A585D5992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DDB616-9E17-4973-ADAC-115A585D5992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DDB616-9E17-4973-ADAC-115A585D5992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE014AC6-5697-4C22-9866-755B9AF204D5}
+	EndGlobalSection
+EndGlobal
