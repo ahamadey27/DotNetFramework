@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\ReusableMethodsChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F35FD6-0FF7-49FC-B4E2-876AAFC20A47}|ReusableMethodsChallenge\\ReusableMethodsChallenge.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part5_methods\\reusablemethodschallenge\\reusablemethodschallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F35FD6-0FF7-49FC-B4E2-876AAFC20A47}|ReusableMethodsChallenge\\ReusableMethodsChallenge.csproj|solutionrelative:reusablemethodschallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\ReusableMethodsChallenge\\ReusableMethodsChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "ReusableMethodsChallenge\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\ReusableMethodsChallenge\\ReusableMethodsChallenge\\Program.cs",
+              "RelativeToolTip": "ReusableMethodsChallenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:48:49.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

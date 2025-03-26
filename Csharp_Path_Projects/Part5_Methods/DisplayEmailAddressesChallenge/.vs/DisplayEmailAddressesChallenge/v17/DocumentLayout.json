@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\DisplayEmailAddressesChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E98BC76-8F8C-44DA-ACDE-76D4E88AD022}|DisplayEmailAddressesChallenge\\DisplayEmailAddressesChallenge.csproj|d:\\net_learning_path\\dotnetframework\\csharp_path_projects\\part5_methods\\displayemailaddresseschallenge\\displayemailaddresseschallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E98BC76-8F8C-44DA-ACDE-76D4E88AD022}|DisplayEmailAddressesChallenge\\DisplayEmailAddressesChallenge.csproj|solutionrelative:displayemailaddresseschallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\DisplayEmailAddressesChallenge\\DisplayEmailAddressesChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "DisplayEmailAddressesChallenge\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\DisplayEmailAddressesChallenge\\DisplayEmailAddressesChallenge\\Program.cs",
+              "RelativeToolTip": "DisplayEmailAddressesChallenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:24:18.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
