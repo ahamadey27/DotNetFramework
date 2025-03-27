@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnMyCalculatorApp", "LearnMyCalculatorApp\LearnMyCalculatorApp.csproj", "{6E9205AB-302F-4C20-BB05-4435E8D6BE3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnMyCaulculatorApp.Tests", "LearnMyCaulculatorApp.Tests\LearnMyCaulculatorApp.Tests.csproj", "{FA2238E0-08B0-4497-8E29-F53DDE5B678A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9205AB-302F-4C20-BB05-4435E8D6BE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9205AB-302F-4C20-BB05-4435E8D6BE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9205AB-302F-4C20-BB05-4435E8D6BE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9205AB-302F-4C20-BB05-4435E8D6BE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2238E0-08B0-4497-8E29-F53DDE5B678A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2238E0-08B0-4497-8E29-F53DDE5B678A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2238E0-08B0-4497-8E29-F53DDE5B678A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2238E0-08B0-4497-8E29-F53DDE5B678A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1501A1E1-AAFB-470E-89C1-42D15B8F4BB8}
+	EndGlobalSection
+EndGlobal
