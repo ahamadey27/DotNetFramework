@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "MiniGameChallenge\\Program.cs",
               "ToolTip": "D:\\NET_Learning_Path\\DotNetFramework\\Csharp_Path_Projects\\Part5_Methods\\MiniGameChallenge\\MiniGameChallenge\\Program.cs",
               "RelativeToolTip": "MiniGameChallenge\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T21:00:49.101Z",
               "EditorCaption": ""
