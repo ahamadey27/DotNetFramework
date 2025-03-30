@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\DebuggingWithCopilot_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3594A77B-C8EA-4858-A4A7-C19EBD508826}|DebuggingWithCopilot_Exercise\\DebuggingWithCopilot_Exercise.csproj|d:\\net_learning_path\\coursera_backenddeveloper\\course01_foundationsofcodingbackend\\debuggingwithcopilot_exercise\\debuggingwithcopilot_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3594A77B-C8EA-4858-A4A7-C19EBD508826}|DebuggingWithCopilot_Exercise\\DebuggingWithCopilot_Exercise.csproj|solutionrelative:debuggingwithcopilot_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\DebuggingWithCopilot_Exercise\\DebuggingWithCopilot_Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "DebuggingWithCopilot_Exercise\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\DebuggingWithCopilot_Exercise\\DebuggingWithCopilot_Exercise\\Program.cs",
+              "RelativeToolTip": "DebuggingWithCopilot_Exercise\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:34:13.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
